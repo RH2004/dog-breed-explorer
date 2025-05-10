@@ -1,0 +1,201 @@
+Breed,Group,Ranking 2023,Ranking 2022,Ranking 2021,Ranking 2020,Ranking 2019,Ranking 2018,Ranking 2017,Ranking 2016,Ranking 2015,Ranking 2014,Ranking 2013
+Labrador Retriever,Sporting Group,2,2,1,1,1,1,1,1,1,1,1
+German Shepherd Dog,Herding Group,4,4,4,3,2,2,2,2,2,2,2
+Golden Retriever,Sporting Group,3,3,3,4,3,3,3,3,3,3,3
+Bulldog,Non-Sporting Group,7,6,6,5,5,5,5,4,4,4,5
+Beagle,Hound Group,8,8,7,7,7,6,6,5,5,5,4
+French Bulldog,Non-Sporting Group,1,1,2,2,4,4,4,6,6,9, 11
+Yorkshire Terrier,Toy Group,13,13,13,13,12,10,9,9,7,6,6
+Poodle,Non-Sporting Group,5,5,5,6,6,7,7,7,8,7,8
+Rottweiler,Working Group,9,7,8,8,8,8,8,8,9,10,9
+Boxer,Working Group,18,16,14,14,14,11,11,10,10,8,7
+Siberian Husky,Working Group,24,21,19,16,15,14,12,12,12,13,14
+Dachshund,Hound Group,6,9,10,10,11,12,13,13,13, 11,10
+Doberman Pinscher,Working Group,15,15,16,18,19,17,16,15,14,14,12
+Great Dane,Working Group,19,19,17,15,17,16,14,14,15,15,16
+Miniature Schnauzer,Terrier Group,17,17,18,19,18,19,18,17,16,16,17
+Australian Shepherd,Herding Group,12,12,12,12,13,15,17,16,17,18,20
+Shih Tzu,Toy Group,20,20,22,20,20,20,20,20,19,17,15
+Pembroke Welsh Corgi,Herding Group,11,11,11,11,10,13,15,18,20,22,24
+Pomeranian,Toy Group,22,23,24,23,24,23,22,22,21,20,19
+Boston Terrier,Non-Sporting Group,23,24,23,21,21,21,21,21,22,23,23
+Shetland Sheepdog,Herding Group,26,27,28,27,25,25,24,24,23,21,21
+Havanese,Toy Group,25,25,25,24,22,24,23,23,24,25,25
+Mastiff,Working Group,38,37,35,33,32,29,28,28,25,26,26
+Brittany,Sporting Group,28,28,27,28,26,26,26,25,26,27,30
+English Springer Spaniel,Sporting Group,27,26,26,26,27,27,27,26,27,28,28
+Chihuahua,Toy Group,32,34,37,34,35,33,32,30,28,24,22
+Bernese Mountain Dog,Working Group,21,22,20,22,23,22,25,27,29,32,32
+Cocker Spaniel,Sporting Group,30,29,29,30,28,30,29,29,30,30,29
+Maltese,Toy Group,37,38,39,38,36,37,33,33,31,29,27
+Vizsla,Sporting Group,35,33,32,35,34,31,30,31,32,34,34
+Pug,Toy Group,36,35,33,29,31,28,31,32,33,33,31
+Weimaraner,Sporting Group,48,44,40,39,39,36,34,34,34,35,33
+Cane Corso,Working Group,16,18,21,25,30,32,37,40,35,48,50
+Collie,Herding Group,40,39,38,40,38,38,40,37,36,36,35
+Newfoundland,Working Group,42,42,45,41,40,40,36,35,37,37,37
+Border Collie,Herding Group,31,30,31,32,33,35,38,38,38,40,44
+Basset Hound,Hound Group,34,36,34,36,37,39,39,39,39,42,42
+Rhodesian Ridgeback,Hound Group,41,41,41,42,42,41,41,42,40,39,39
+West Highland White Terrier,Terrier Group,43,45,46,44,44,42,42,41,41,38,36
+Chesapeake Bay Retriever,Sporting Group,54,52,48,50,46,45,43,43,42,41,43
+Bullmastiff,Working Group,60,61,56,55,52,51,51,48,43,45,41
+Bichon Frise,Non-Sporting Group,44,47,47,45,43,46,46,45,44,44,40
+Shiba Inu,Non-Sporting Group,46,43,42,43,45,44,45,44,45,47,46
+Akita,Working Group,58,55,52,48,47,47,47,46,46,46,45
+Soft Coated Wheaten Terrier,Terrier Group,69,66,66,58,54,53,49,50,47,49,51
+Papillon,Toy Group,45,51,54,53,53,54,53,53,48,43,38
+Bloodhound,Hound Group,53,50,50,46,51,49,50,52,49,50,48
+Saint Bernard,Working Group,55,56,53,52,48,48,48,49,50,51,47
+Belgian Malinois,Herding Group,33,32,36,37,41,43,44,47,51,60,60
+Portuguese Water Dog,Working Group,49,46,44,49,49,50,54,51,52,52,49
+Airedale Terrier,Terrier Group,67,65,62,62,61,60,55,55,53,57,56
+Alaskan Malamute,Working Group,71,67,68,65,65,58,59,59,54,54,57
+Bull Terrier,Terrier Group,65,64,61,64,62,62,60,57,55,53,52
+Australian Cattle Dog,Herding Group,52,48,51,54,55,55,56,54,56,55,58
+Whippet,Hound Group,51,54,57,59,58,61,61,60,57,56,59
+Scottish Terrier,Terrier Group,59,60,58,57,57,57,58,58,58,59,55
+Chinese Shar-Pei,Non-Sporting Group,70,68,64,61,66,64,64,61,59,58,54
+English Cocker Spaniel,Sporting Group,39,40,43,47,50,52,52,56,60,62,62
+Samoyed,Working Group,50,53,55,56,59,59,57,65,61,68,67
+Dalmatian,Non-Sporting Group,47,49,49,51,60,56,63,62,62,66,64
+Dogue de Bordeaux,Working Group,84,78,70,71,69,67,67,63,63,63,65
+Miniature Pinscher,Toy Group,74,72,76,77,75,70,71,68,64,61,53
+Lhasa Apso,Non-Sporting Group,85,86,84,78,79,71,77,71,65,67,63
+Wirehaired Pointing Griffon,Sporting Group,57,57,60,63,63,65,65,66,66,76,80
+Great Pyrenees,Working Group,64,69,63,70,70,66,66,67,67,75,69
+German Wirehaired Pointer,Sporting Group,61,59,59,60,64,63,62,64,68,71,71
+Irish Wolfhound,Hound Group,73,89,85,74,77,76,73,73,69,72,73
+Cairn Terrier,Terrier Group,68,70,74,73,73,69,69,70,70,69,61
+Italian Greyhound,Toy Group,62,63,73,69,68,73,74,72,71,74,66
+Irish Setter,Sporting Group,76,71,71,75,80,77,72,76,72,73,72
+Chow Chow,Non-Sporting Group,88,92,80,84,78,75,76,74,73,70,70
+Old English Sheepdog,Herding Group,77,74,69,68,71,72,70,75,74,77,78
+Chinese Crested,Toy Group,79,80,77,79,81,79,79,77,75,65,68
+Cardigan Welsh Corgi,Herding Group,63,62,67,66,67,68,68,69,76,78,75
+American Staffordshire Terrier,Terrier Group,95,87,81,82,86,85,83,81,77,84,76
+Greater Swiss Mountain Dog,Working Group,87,83,78,76,74,74,75,78,78,80,74
+Staffordshire Bull Terrier,Terrier Group,72,75,75,81,83,80,82,82,79,79,79
+Pekingese,Toy Group,91,96,94,95,84,92,88,93,80,82,77
+Giant Schnauzer,Working Group,56,58,65,67,72,78,80,79,81,83,83
+Border Terrier,Terrier Group,94,95,91,97,85,88,92,86,82,85,81
+Bouvier des Flandres,Herding Group,99,98,101,94,93,84,85,83,83,81,82
+Keeshond,Non-Sporting Group,89,90,95,96,89,95,87,92,84,87,86
+Coton De Tulear,Non-Sporting Group,90,84,83,80,82,81,81,80,85,31,
+Flat-Coated Retriever,Sporting Group,100,103,93,102,106,91,96,89,86,92,94
+Basenji,Hound Group,81,91,87,86,88,87,84,88,87,86,85
+Norwegian Elkhound,Hound Group,115,100,100,91,94,97,91,94,88,103,103
+Borzoi,Hound Group,101,101,104,103,107,103,102,98,89,102,99
+Tibetan Terrier,Non-Sporting Group,108,106,112,99,103,96,101,91,90,88,88
+Standard Schnauzer,Working Group,96,94,96,92,99,89,90,85,91,90,90
+Anatolian Shepherd Dog,Working Group,82,79,88,85,96,90,86,84,92,94,93
+Leonberger,Working Group,98,114,102,98,97,93,100,95,93,104,98
+Wire Fox Terrier,Terrier Group,104,102,99,104,101,101,99,101,94,95,96
+Brussels Griffon,Toy Group,92,97,97,89,98,98,94,97,95,91,84
+English Setter,Sporting Group,97,93,98,101,100,94,95,102,96,89,91
+Japanese Chin,Toy Group,103,105,105,111,110,104,108,108,97,93,87
+Belgian Tervuren,Herding Group,102,104,103,106,105,106,103,107,98,110,108
+Nova Scotia Duck Tolling Retriever,Sporting Group,83,81,92,90,87,83,89,87,99,99,97
+Afghan Hound,Hound Group,111,117,114,122,113,113,93,113,100,98,95
+Rat Terrier,Terrier Group,86,85,86,83,92,86,97,96,101,111,
+Silky Terrier,Toy Group,114,122,116,108,111,112,106,100,102,101,92
+Norwich Terrier,Terrier Group,105,109,111,109,104,108,105,103,103,97,89
+Russell Terrier,Terrier Group,66,73,72,72,76,82,78,90,104,105,102
+Gordon Setter,Sporting Group,106,99,113,107,115,115,104,104,105,100,105
+Neapolitan Mastiff,Working Group,118,119,106,100,102,102,107,99,106,114,111
+Boykin Spaniel,Sporting Group,75,82,90,87,90,100,98,110,107,108,121
+Welsh Terrier,Terrier Group,116,113,109,112,112,107,109,111,108,106,104
+Schipperke,Non-Sporting Group,113,115,115,114,108,105,110,112,109, 109, 109
+Toy Fox Terrier,Toy Group,110,108,110,113,109,111,112,116,110,115,107
+Parson Russell Terrier,Terrier Group,117,121,117,115,120,117,119,109,111,116,100
+Spinone Italiano,Sporting Group,119,112,108,110,118,109,111,105,112,118,117
+Irish Terrier,Terrier Group,137,131,124,120,121,116,114,115,113,125,123
+Pointer,Sporting Group,125,107,120,116,117,114,113,117,114,119,114
+Tibetan Spaniel,Non-Sporting Group,121,127,125,118,119,119,121,118,115,122,106
+Black Russian Terrier,Working Group,128,128,127,126,116,118,116,119,116,127,118
+Treeing Walker Coonhound,Hound Group,155,159,151,153,131,137,131,137,117,112,101
+American Eskimo Dog,Non-Sporting Group,129,123,122,119,122,122,118,122,118,120,110
+Bearded Collie,Herding Group,154,124,143,125,138,127,125,126,119,121,112
+Belgian Sheepdog,Herding Group,124,125,129,117,128,125,120,129,120,123,119
+Miniature Bull Terrier,Terrier Group,107,110,107,105,114,110,115,120,121,129,125
+Smooth Fox Terrier,Terrier Group,133,141,131,124,124,123,122,124,122,124,116
+Bluetick Coonhound,Hound Group,139,133,140,137,140,130,132,121,123,130,128
+Kerry Blue Terrier,Terrier Group,160,146,134,133,135,129,129,127,124,128,126
+Australian Terrier,Terrier Group,156,136,152,134,144,139,137,136,125,139,122
+Boerboel,Working Group,123,118,118,123,129,121,124,131,126,64,
+Black and Tan Coonhound,Hound Group,131,149,141,127,143,138,130,128,127,126,113
+Welsh Springer Spaniel,Sporting Group,132,126,126,128,132,128,133,123,128,133,124
+English Toy Spaniel,Toy Group,145,134,137,138,141,135,134,130,129,138,135
+Briard,Herding Group,150,151,150,150,137,132,127,132,130,132,127
+Norfolk Terrier,Terrier Group,134,138,130,130,133,126,128,134,131,131,129
+Saluki,Hound Group,120,135,128,144,127,120,123,125,132,134,115
+Tibetan Mastiff,Working Group,143,137,147,140,130,131,153,135,133,135,132
+Clumber Spaniel,Sporting Group,148,139,149,135,136,143,140,144,134,143,131
+Xoloitzcuintli,Non-Sporting Group,122,116,119,131,139,140,143,139,135,142,139
+Affenpinscher,Toy Group,162,148,159,163,152,148,147,149,136,144,143
+Manchester Terrier,Terrier Group,126,130,123,132,142,133,135,133,137,136,120
+German Pinscher,Working Group,151,145,146,139,125,134,136,146,138,141,130
+Redbone Coonhound,Hound Group,140,158,155,146,145,142,139,143,139,148,133
+Icelandic Sheepdog,Herding Group,146,132,138,154,134,155,144,153,140,146,142
+Lakeland Terrier,Terrier Group,153,143,142,136,150,147,138,145,141,149,134
+Beauceron,Herding Group,109,111,121,121,123,124,141,140,142,145,152
+Petit Basset Griffon Vendeen,Hound Group,158,154,161,164,154,156,160,148,143,150,138
+Irish Water Spaniel,Sporting Group,177,183,165,174,172,159,164,150,144,152,141
+Field Spaniel,Sporting Group,147,157,136,160,155,149,145,147,145,137,140
+Bedlington Terrier,Terrier Group,149,152,133,141,153,141,151,138,146,140,137
+Greyhound,Hound Group,127,129,132,142,164,145,156,151,147,147,148
+Irish Red and White Setter,Sporting Group,165,168,154,170,157,146,154,142,148,155,145
+Plott Hound,Hound Group,181,173,171,167,179,171,166,158,149,154,149
+Kuvasz,Working Group,173,177,169,177,168,163,157,165,150,161,150
+Curly-Coated Retriever,Sporting Group,167,156,167,159,165,162,171,164,151,163,163
+Scottish Deerhound,Hound Group,171,155,158,166,151,158,168,154,152,157,165
+Portuguese Podengo Pequeno,Hound Group,163,171,162,157,149,154,159,160,153,166,153
+Puli,Herding Group,164,161,164,143,162,160,142,159,154,151,136
+Swedish Vallhund,Herding Group,138,160,160,147,161,169,149,163,155,158,147
+Wirehaired Vizsla,Sporting Group,142,142,144,155,147,167,155,157,156,107,
+American Water Spaniel,Sporting Group,168,166,166,158,166,166,167,156,157,160,144
+Sealyham Terrier,Terrier Group,169,164,139,148,156,164,150,155,158,169,158
+Entlebucher Mountain Dog,Herding Group,183,162,173,152,169,157,152,161,159,153,155
+Ibizan Hound,Hound Group,166,172,182,171,173,152,165,152,160,159,151
+Lowchen,Non-Sporting Group,159,165,157,161,160,168,169,171,161,165,154
+Cirneco Dell’Etna,Hound Group,184,184,183,179,187,183,184,183,162,117,
+Komondor,Working Group,180,175,186,178,183,173,163,177,163,168,159
+Polish Lowland Sheepdog,Herding Group,193,181,180,175,175,170,176,169,164,170,157
+Norwegian Buhund,Herding Group,175,178,170,168,171,165,170,174,165,172,166
+American English Coonhound,Hound Group,178,182,184,185,177,175,178,170,166,156,146
+Spanish Water Dog,Herding Group,144,163,145,149,146,153,148,162,167,113,
+Glen of Imaal Terrier,Terrier Group,170,169,175,169,170,174,158,180,168,162,167
+Finnish Lapphund,Herding Group,135,167,168,165,167,161,173,173,169,173,171
+Canaan Dog,Herding Group,191,187,187,184,181,179,175,181,170,176,164
+Pharaoh Hound,Hound Group,176,174,176,180,163,172,174,168,171,164,160
+Dandie Dinmont Terrier,Terrier Group,186,186,174,181,176,176,182,167,172,167,168
+Sussex Spaniel,Sporting Group,174,192,177,172,178,180,161,172,173,175,162
+Bergamasco Sheepdog,Herding Group,188,179,179,173,182,187,181,184,174,96,
+Skye Terrier,Terrier Group,185,189,181,183,189,178,172,178,175,177,161
+Pyrenean Shepherd,Herding Group,187,190,192,182,184,181,180,176,176,178,169
+Chinook,Working Group,179,180,172,186,186,190,179,175,177,171,156
+Finnish Spitz,Non-Sporting Group,194,188,191,187,185,184,177,179,178,174,170
+Cesky Terrier,Terrier Group,192,191,190,191,190,185,185,182,179,182,174
+Otterhound,Hound Group,189,176,178,176,174,182,186,166,180,179,172
+American Foxhound,Hound Group,182,196,195,192,191,186,187,189,181,180,176
+Norwegian Lundhund,Non-Sporting Group,198,198,197,195,194,191,190,188,182,184,175
+Harrier,Hound Group,190,193,188,190,188,189,183,186,183,181,173
+English Foxhound,Hound Group,199,199,196,194,195,188,189,187,184,183,177
+German Shorthaired Pointer,Sporting Group,10,10,9,9,9,9,10,11, 11,12,13
+Cavalier King Charles Spaniel,Toy Group,14,14,15,17,16,18,19,19, 18,19,18
+Miniature American Shepherd,Herding Group,29,31,30,31,29,34,35,36,,,
+Lagotto Romagnolo,Sporting Group,80,76,79,88,91,99,117,114,,,
+Biewer Terrier,Toy Group,78,77,82,,,,,,,,
+Dogo Argentino,Working Group,93,88,89,93,56,,,,,,
+American Hairless Terrier,Terrier Group,112,120,135,129,126,136,126,106,,,
+Barbet,Sporting Group,136,147,148,145,95,,,,,,
+Pumi,Herding Group,172,140,153,156,158,151,162,,,,
+Nederlandse Kooikerhondje,Sporting Group,161,170,156,162,159,150,,,,,
+Berger Picard,Herding Group,157,153,163,151,148,144,146,141,,,
+Azawakh,Hound Group,196,194,185,193,192,,,,,,
+Grand Basset Griffon Vendeen,Hound Group,197,185,189,188,180,177,,,,,
+Sloughi,Hound Group,200,197,193,189,193,192,188,185,,,
+Belgian Laekenois,Herding Group,195,195,194,,,,,,,,
+Mudi,Herding Group,130,150,,,,,,,,,
+Russian Toy,Toy Group,141,144,,,,,,,,,
+Bracco Italiano,Sporting Group,152,,,,,,,,,,
