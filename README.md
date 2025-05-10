@@ -16,11 +16,13 @@ This Streamlit app visualizes and compares dog breed traits using radar charts. 
 
 ## 🚀 Getting Started
 
+### Link to the demo
+https://dog-breed-explorer-eafuxfhqec7tq3ruaxnw8z.streamlit.app
+
+
 ### 1. Clone the repository
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/dog-breed-explorer.git
 cd dog-breed-explorer
 
-### Link to the demo
-https://dog-breed-explorer-eafuxfhqec7tq3ruaxnw8z.streamlit.app
